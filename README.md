@@ -17,11 +17,6 @@ Contact me!
 
 <a href="mailto:turkmenesranur@gmail.com?subject="><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;</br><a href="https://www.linkedin.com/in/esranur-turkmen/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-039BE5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mgrootendorst/" alt="maartengrootendorst"/></a>
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/esranur-turkmen/"
-
 
 
 <!--
